@@ -5,7 +5,7 @@ A python server that serves up the named pipe associated with Stream Labs OBS on
 ## Runing SlobsPipeProxy
 * Download `SlobsPipeProxy.py` either by copying/dowloading the file, or forking this repo.
 * Make sure you have [Python 3 downloaded](https://www.python.org/downloads/)
-* open `Command Prompt` and run `python pathToFile/SlobsPipeProxy.py`
+* open `Command Prompt` and run `python <pathToFile>/SlobsPipeProxy.py`
 
 
 ## Using SlobsPipeProxy
